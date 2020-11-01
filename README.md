@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Maletha - aka Abhishek-photon 👋
 
-## I'm a student, competetive programmer, web developer and an athelete.
+## I'm a student, competitive programmer, web developer and an athelete.
 
 - 🌱 I’m grasping anything that fascinates me
 - 👯 I’m looking forward to learn more and more by collaborating with other enthusiasts
