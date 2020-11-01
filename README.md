@@ -1,4 +1,4 @@
-### Hi there, I'm Abhishek Maletha - aka [Abhishek-photon 👋
+### Hi there, I'm Abhishek Maletha - aka Abhishek-photon 👋
 
 ## I'm a student, competetive programmer, web developer and an athelete.
 
