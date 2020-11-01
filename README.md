@@ -50,9 +50,6 @@
 <br />
 <br />
   <img align="left" alt="Abhishek-photon's GitHub Stats" src="https://github-readme-stats.abhishek-photon.vercel.app/api?username=Abhishek-photon&show_icons=true&hide_border=true" />
-<br />
-<br />
-
 ---
 
 [github]: https://github.com/Abhishek-photon
