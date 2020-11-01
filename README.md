@@ -31,22 +31,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<br />
-<br />
 
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/Abhishek-photon/Abhishek-photon/pull/13) in [Abhishek-photon/Abhishek-photon](https://github.com/Abhishek-photon/Abhishek-photon)
-3. 💪 Opened PR [#13](https://github.com/Abhishek-photon/Abhishek-photon/pull/13) in [Abhishek-photon/Abhishek-photon](https://github.com/Abhishek-photon/Abhishek-photon)
-4. 🎉 Merged PR [#12](https://github.com/Abhishek-photon/Abhishek-photon/pull/12) in [Abhishek-photon/Abhishek-photon](https://github.com/Abhishek-photon/Abhishek-photon)
-5. 💪 Opened PR [#12](https://github.com/Abhishek-photon/Abhishek-photon/pull/12) in [Abhishek-photon/Abhishek-photon](https://github.com/Abhishek-photon/Abhishek-photon)
-<!--END_SECTION:activity-->
-
-</details>
 <br />
 <br />
   <img align="left" alt="Abhishek-photon's GitHub Stats" src="https://github-readme-stats.abhishek-photon.vercel.app/api?username=Abhishek-photon&show_icons=true&hide_border=true" />
