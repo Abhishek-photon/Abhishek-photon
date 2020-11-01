@@ -7,10 +7,6 @@
 - 🥅 2020 Goals: to become a full-stack web-dev
 - ⚡ I love to play guitar and sing.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-Abhishek-photon.vercel.app/api/spotify-playing" alt="Abhishek-photon Spotify Playing" width="350" />]hhttps://open.spotify.com/track/2tZIVD0ZPxpsoFx7hvAjWh
-
 ### Connect with me:
 [<img align="left" alt="Abhishek-photon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 [<img align="left" alt="Abhishek-photon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
