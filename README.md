@@ -52,6 +52,9 @@
   <img align="left" alt="Abhishek-photon's GitHub Stats" src="https://github-readme-stats.Abhishek-photon.vercel.app/api?username=Abhishek-photon&show_icons=true&hide_border=true" />
 <br />
 <br />
+
+---
+
 [github]: https://github.com/Abhishek-photon
 [css3]: https://www.w3schools.com/css/
 [html]: https://www.w3.org/html/
