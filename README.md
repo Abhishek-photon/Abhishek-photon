@@ -56,14 +56,9 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+<br />
+<br />
   <img align="left" alt="Abhishek-photon's GitHub Stats" src="https://github-readme-stats.Abhishek-photon.vercel.app/api?username=Abhishek-photon&show_icons=true&hide_border=true" />
-
-</details>
-
 <br />
 <br />
 [instagram]: https://www.instagram.com/abhishek.maletha/
