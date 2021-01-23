@@ -1,4 +1,4 @@
-### Hi there, I'm Abhishek Maletha - aka Abhishek-photon 👋
+### Hi there, I'm Abhishek Maletha - aka abhishekmaletha 👋
 
 ## I'm a student, competitive programmer, web developer and an athelete.
 
@@ -8,10 +8,10 @@
 - ⚡ I love to play guitar and sing.
 
 ### Connect with me:
-[<img align="left" alt="Abhishek-photon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="Abhishek-photon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt="Abhishek-photon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Abhishek-photon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="abhishekmaletha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="abhishekmaletha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+[<img align="left" alt="abhishekmaletha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="abhishekmaletha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,10 +34,10 @@
 
 <br />
 <br />
-  <img align="left" alt="Abhishek-photon's GitHub Stats" src="https://github-readme-stats.abhishek-photon.vercel.app/api?username=Abhishek-photon&show_icons=true&hide_border=true" />
+  <img align="left" alt="abhishekmaletha's GitHub Stats" src="https://github-readme-stats.abhishekmaletha.vercel.app/api?username=abhishekmaletha&show_icons=true&hide_border=true" />
 
 
-[github]: https://github.com/Abhishek-photon
+[github]: https://github.com/abhishekmaletha
 [css3]: https://www.w3schools.com/css/
 [html]: https://www.w3.org/html/
 [python]: https://www.python.org/
